@@ -1,0 +1,12 @@
+{
+  "name": "Lazy librarian",
+  "port": 8112,
+  "available": true,
+  "id": "lazylibrarian",
+  "description": "",
+  "short_desc": "LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.",
+  "author": "phil borman",
+  "source": "https://gitlab.com/LazyLibrarian/LazyLibrarian",
+  "image": "https://gitlab.com/uploads/-/system/project/avatar/9317860/ll.png?width=200",
+  "form_fields": {}
+}
